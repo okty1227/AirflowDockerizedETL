@@ -1,0 +1,23 @@
+{
+  "easy_apply_only": true,
+  "Salary_Range": [
+    50,
+    100
+  ],
+  "Company_Rating_atleast": 3,
+  "last_date_posted": 7,
+  "flexible_skills": [
+    "SQL",
+    "Spark"
+  ],
+  "independen_exist_skills": [
+    "R",
+    "AI",
+    "ML",
+    "Tableau",
+    "Java",
+    "Scala",
+    "Python",
+    "machine learning"
+  ]
+}
