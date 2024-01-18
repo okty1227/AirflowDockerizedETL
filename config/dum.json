@@ -1,0 +1,15 @@
+[
+    {"job_name": "Analytics_Engineer", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-analytics-engineer-jobs-SRCH_IL.0,13_IN1_KO14%2C32.htm"},
+    {"job_name": "business_data_analyst", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-business-data-analyst-jobs-SRCH_IL.0,13_IN1_KO14%2C35.htm"},
+    {"job_name": "data_quality_analyst", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-data-quality-analyst-jobs-SRCH_IL.0,13_IN1_KO14%2C34.htm"},
+    {"job_name": "data_warehouse_developer", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-data-warehouse-developer-jobs-SRCH_IL.0,13_IN1_KO14%2C38.htm"},
+    {"job_name": "data_scientist", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-data-scientist-jobs-SRCH_IL.0,13_IN1_KO14,28.htm"},
+    {"job_name": "bi_analyst", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-business-intelligence-analyst-jobs-SRCH_IL.0,13_IN1_KO14,43.htm"},
+    {"job_name": "bi_engineer", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-business-intelligence-engineer-jobs-SRCH_IL.0,13_IN1_KO14,44.htm"},
+    {"job_name": "dataspecialist", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-data-specialist-jobs-SRCH_IL.0,13_IN1_KO14,29.htm"},
+    {"job_name": "data_engineer", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-data-engineer-jobs-SRCH_IL.0,13_IN1_KO14,27.htm"},
+    {"job_name": "data_analyst", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-data-analyst-jobs-SRCH_IL.0,13_IN1_KO14,26.htm"},
+    {"job_name": "financial_analyst", "search_amt": 100, "position_url": "https://www.glassdoor.com/Job/united-states-financial-analyst-jobs-SRCH_IL.0,13_IN1_KO14,31.htm"},
+    {"job_name": "Data_Science_Consultant", "search_amt":100,"position_url":"https://www.glassdoor.com/Job/united-states-data-science-consultant-jobs-SRCH_IL.0,13_IN1_KO14,37.htm"},
+    {"job_name": "Business_ANalyst","search_amt":100,"position_url":"https://www.glassdoor.com/Job/united-states-business-analyst-jobs-SRCH_IL.0,13_IN1_KO14,30.htm"}
+]

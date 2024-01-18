@@ -92,7 +92,7 @@ services:
       POSTGRES_PASSWORD: airflow
       POSTGRES_DB: airflow
     volumes:
-      - postgres-db-volume:/var/lib/postgresql/data
+      - pgsql-glsdr:/var/lib/postgresql/data
     ports:
       - 5432:5432
     healthcheck:
@@ -237,14 +237,10 @@ services:
     image: selenium/standalone-chrome
     ports:
       - "4444:4444"
-    # variables:
-    #   SE_NODE_OVERRIDE_MAX_SESSIONS: 'true'
-    #   SE_NODE_MAX_SESSIONS: '2'
+    environment:
+      SE_NODE_OVERRIDE_MAX_SESSIONS: 'true'
+      SE_NODE_MAX_SESSIONS: '6'
 
-  # You can enable flower by adding "--profile flower" option e.g. docker-compose --profile flower up
-  # or by explicitly targeted on the command line e.g. docker-compose up flower.
-  # See: https://docs.docker.com/compose/profiles/
-  
 
-volumes:
-  postgres-db-volume:
+volumes:  
+  pgsql-glsdr:

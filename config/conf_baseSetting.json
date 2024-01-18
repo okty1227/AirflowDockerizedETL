@@ -1,0 +1,28 @@
+{
+  "easy_apply_only": true,
+
+  "last_date_posted": 7,
+  "flexible_skills": ["SQL", "Spark"],
+  "independent_exist_skills": ["R", "AI", "ML", "Tableau", "Java", "Scala", "Python", "machine learning"],
+  "xpath": {
+    "exist_close_view": "/html/body/div[11]/div[2]/div[1]/button",
+    "exist_close_invitation": "/html/body/div[8]/div/div[2]/span/svg",
+    "show_more_job": "/html/body/div[2]/div[1]/div[3]/div[2]/div[1]/div[2]/div/button",
+    "basic_info": "/html/body/div[2]/div[1]/div[3]/div[2]/div[2]/div[1]/header/div[1]",
+    "if_easy_apply": "/html/body/div[2]/div[1]/div[3]/div[2]/div[2]/div[1]/header/div[3]/div[2]",
+    "company_all_section": "section.JobDetails_jobDetailsSection__PJz1h",
+    "jd_selector": " > div",
+    "salary_selector": " > div > div > div:nth-child(1)",
+    "size_selector": " > div > div > div:nth-child(1) > div",
+    "found_year_selector": " > div > div > div:nth-child(2) > div",
+    "industry_selector": " > div > div > div:nth-child(4) > div",
+    "sector_selector": " > div > div > div:nth-child(5) > div",
+    "num_header_selector": "/html/body/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]/h1",
+    "click_dynamic_selector": "arguments[0].click();"
+  },
+  "scrawlerKeyWord": {
+    "validate_salary":"Average base salary estimate",
+    "company_overview":"Company overview"
+  },
+  "default_unfound_val": "--"
+}
